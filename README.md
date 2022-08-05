@@ -13,7 +13,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=praba2210&theme=react-dark&hide_border=true&area=true)
 
 
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=praba2210&column=6&margin-w=15&margin-h=15" alt="basemax"></a>
+<a href="https://github.com/praba2210?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=praba2210&column=6&margin-w=15&margin-h=15" alt="basemax"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
