@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabakaran A</h1>
 <h3 align="center">A passionate frontend developer who has experience in developing WebApp Mobile with several technologies.</h3>
 
+<div align="center">
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praba2210" alt="praba2210" /></a> </p>
 
