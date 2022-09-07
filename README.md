@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, World history**
 
-- 💬 Ask me about **React Native, React,Web Development, Python, Javascript, Freelancing**
+- 💬 Ask me about **React Native, React.js,Vue.js,Web Development, Python, Javascript**
 
 - 📫 How to reach me **prabakaranaw@gmail.com**
 
