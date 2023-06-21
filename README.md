@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prabakaran A</h1>
-<h3 align="center">A passionate frontend developer who has experience in developing WebApp Mobile with several technologies.</h3>
+<h3 align="centre">A passionate developer with experience developing Web/App Mobile with several technologies.</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{praba2210}/count.svg)
+- 🌱 I’m currently learning **Backend development, ML, World history**
 
-- 🌱 I’m currently learning **React Native, World history**
-
-- 💬 Ask me about **React Native, React.js,Vue.js,Web Development, Python, Javascript**
+- 💬 Ask me about **React Native, React.js, Next JS, Vue JS, Web Development, Python, Javascript**
 
 - 📫 How to reach me **prabakaranaw@gmail.com**
 
