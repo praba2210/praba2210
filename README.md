@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabakaran A</h1>
+<h1 align="center">Hi 👋, I'm Prabakaran Annadurai</h1>
 <h3 align="centre">A passionate developer with experience developing Web/App Mobile with several technologies.</h3>
 
 - 🌱 I’m currently learning **Backend development, ML, World history**
